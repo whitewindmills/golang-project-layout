@@ -1,6 +1,7 @@
 # `/examples`
 
 Examples for your applications and/or public libraries.
+If not, ignore.
 
 Examples:
 
